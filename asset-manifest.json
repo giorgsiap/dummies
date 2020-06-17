@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dummies/static/css/main.0ae257ff.chunk.css",
+    "main.js": "/dummies/static/js/main.80fcbf25.chunk.js",
+    "main.js.map": "/dummies/static/js/main.80fcbf25.chunk.js.map",
+    "runtime-main.js": "/dummies/static/js/runtime-main.9ac2470e.js",
+    "runtime-main.js.map": "/dummies/static/js/runtime-main.9ac2470e.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/dummies/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5729f633.chunk.js": "/dummies/static/js/2.5729f633.chunk.js",
+    "static/js/2.5729f633.chunk.js.map": "/dummies/static/js/2.5729f633.chunk.js.map",
+    "index.html": "/dummies/index.html",
+    "precache-manifest.7236f2265b03cfb9eba12c0b48be144a.js": "/dummies/precache-manifest.7236f2265b03cfb9eba12c0b48be144a.js",
+    "service-worker.js": "/dummies/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/dummies/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.0ae257ff.chunk.css.map": "/dummies/static/css/main.0ae257ff.chunk.css.map",
+    "static/js/2.5729f633.chunk.js.LICENSE.txt": "/dummies/static/js/2.5729f633.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/dummies/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ac2470e.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5729f633.chunk.js",
+    "static/css/main.0ae257ff.chunk.css",
+    "static/js/main.80fcbf25.chunk.js"
+  ]
+}
